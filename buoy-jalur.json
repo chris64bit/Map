@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[115.04769846535,-9.49063048329744,0],[114.832021339589,-9.37075591278735,0],[114.699880519388,-9.4067057414628,0],[114.637641595242,-9.48550564269009,0]]},"properties":{"name":"buoy-jalur","tessellate":true}}
+]}
